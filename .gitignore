@@ -25,6 +25,7 @@ gen/
 /*/local.properties
 /*/out
 /*/*/build
+build
 /*/*/production
 /captures
 *.iml
